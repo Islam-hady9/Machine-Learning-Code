@@ -1,0 +1,6 @@
+https://www.kaggle.com/code/alharbiomar/linear-regression-1/notebook                  linear-regression-1
+https://www.kaggle.com/code/alharbiomar/linearregression-2/notebook                   linear-regression-2
+https://www.kaggle.com/code/alharbiomar/logisticregression/notebook                   logistic-regression
+https://www.kaggle.com/code/alharbiomar/polynomialfunctions/notebook                  polynomial-functions
+https://www.kaggle.com/code/alharbiomar/regularization/notebook                       regularization
+https://www.kaggle.com/code/alharbiomar/crossvalidation/notebook                      cross-validation
